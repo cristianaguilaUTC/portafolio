@@ -1,43 +1,147 @@
 # 👨‍💻 Cristian Santiago Aguila Camacho
 
-Estudiante de Ingeniería en Sistemas de Información en la Universidad Técnica de Cotopaxi, con formación técnica en servicios de informática y experiencia en proyectos académicos y personales relacionados con desarrollo de software y tecnología.  
+### Ingeniero en Sistemas de Información | Desarrollador de Software
+
+Ingeniero en Sistemas de Información graduado de la **Universidad Técnica de Cotopaxi**, con formación y experiencia en desarrollo de aplicaciones web y móviles, bases de datos, APIs, despliegue de sistemas y gestión de proyectos tecnológicos.
+
+Me interesa desarrollar soluciones que respondan a necesidades reales utilizando tecnologías modernas, buenas prácticas de desarrollo y trabajo colaborativo.
 
 ---
 
-## 📍 Información
+## 🚀 Perfil profesional
 
-- 📌 Ubicación: San Felipe, Latacunga - Cotopaxi  
-- 🎓 Formación:
-  - Bachiller técnico en servicios de informática – Unidad Educativa “Gonzalo Escudero” (2018–2020)  
-  - Estudiante de Ingeniería en Sistemas de Información – Universidad Técnica de Cotopaxi (2022 – presente)
+Soy un profesional orientado al **desarrollo de software**, con experiencia desarrollando proyectos académicos, personales y soluciones funcionales utilizando diferentes tecnologías y arquitecturas.
 
-- 📧 Correo: `Santiagoaguila18@outlook.es`  
-- 📱 Teléfono: `0959739781`  
+He trabajado en aplicaciones web y móviles, integración de bases de datos, APIs, contenedores Docker, servidores Linux y despliegue de aplicaciones.
 
----
+Me caracterizo por la responsabilidad, capacidad de aprendizaje, trabajo en equipo, liderazgo y adaptación a nuevos entornos tecnológicos.
 
-Perfil
+Actualmente continúo fortaleciendo mis conocimientos y busco oportunidades en áreas como:
 
-Soy una persona responsable, solidaria y honesta, con facilidad para adaptarme a los cambios y trabajar en equipo, aportando mis conocimientos para alcanzar los objetivos planteados y generar un buen ambiente de trabajo.
-
----
-
-Certificados destacados
-
-- Asistente en la VII Jornada Informática – Universidad Técnica de Cotopaxi (40 horas)
-- Curso de Mantenimineto de computadoras preventivo y correctivo – Universidad Técnica de Cotopaxi (40 horas)
-- Asistente en la "Inspiring Study Conference with Google" – Google (80 horas)  
-- Cultura financiera – Fundación CRISFE (12 horas)  
-- Relaciones profesionales – Capacítate para el empleo (10 horas)
+* 💻 Desarrollo de Software
+* 📱 Desarrollo de Aplicaciones Móviles
+* 🌐 Desarrollo Web
+* ⚙️ Backend
+* 🔗 Full Stack
+* 🗄️ Bases de Datos
+* ☁️ Despliegue y administración de aplicaciones
 
 ---
 
-Archivos
+## 🛠️ Tecnologías y herramientas
 
-- 📄 [Descargar hoja de vida en PDF](./CV_Cristian_Santiago_Aguila_Camacho.pdf)
+### Desarrollo móvil
+
+* Flutter
+* Dart
+
+### Backend y desarrollo web
+
+* Python
+* Django
+* PHP
+* Laravel
+* HTML5
+* CSS3
+* JavaScript
+* APIs REST
+
+### Bases de datos
+
+* PostgreSQL
+* MySQL
+* MariaDB
+* SQLite
+
+### DevOps y herramientas
+
+* Docker
+* Git
+* GitHub
+* Linux
+* Windows Server
+* Render
+* AWS
+* Visual Studio Code
+* Android Studio
+
+### Otras tecnologías
+
+* Power BI
+* Redis
+* Jenkins
+* VirtualBox
 
 ---
 
-Contacto
+## 💼 Áreas de conocimiento
 
-Si deseas conocer más sobre mis estudios, habilidades o proyectos, no dudes en contactarme por correo o LinkedIn.
+* Desarrollo de aplicaciones web
+* Desarrollo de aplicaciones móviles
+* Diseño y administración de bases de datos
+* Integración de APIs
+* Arquitectura cliente-servidor
+* Control de versiones con Git y GitHub
+* Contenedores con Docker
+* Sistemas Linux
+* Despliegue de aplicaciones
+* Business Intelligence
+* Gestión de proyectos tecnológicos
+* Trabajo colaborativo y liderazgo
+
+---
+
+## 🎓 Formación académica
+
+### 🎓 Universidad Técnica de Cotopaxi
+
+**Ingeniería en Sistemas de Información**
+
+Formación enfocada en desarrollo de software, bases de datos, infraestructura tecnológica, análisis de información, redes, sistemas empresariales y gestión de proyectos.
+
+### 🖥️ Unidad Educativa “Gonzalo Escudero”
+
+**Bachiller Técnico en Servicios de Informática**
+2018 – 2020
+
+---
+
+## 📜 Certificados destacados
+
+* 🏅 VII Jornada Informática – Universidad Técnica de Cotopaxi | **40 horas**
+* 🖥️ Mantenimiento preventivo y correctivo de computadoras – Universidad Técnica de Cotopaxi | **40 horas**
+* 🌐 Inspiring Study Conference with Google | **80 horas**
+* 💰 Cultura Financiera – Fundación CRISFE | **12 horas**
+* 🤝 Relaciones Profesionales – Capacítate para el Empleo | **10 horas**
+
+---
+
+## 📄 Hoja de vida
+
+Puedes consultar mi hoja de vida completa en formato PDF:
+
+### 👉 [📄 Ver / Descargar Hoja de Vida](./CV_Cristian_Santiago_Aguila_Camacho.pdf)
+
+---
+
+## 📍 Información de contacto
+
+* 📍 **Ecuador**
+* 📧 **Correo:** `Santiagoaguila18@outlook.es`
+* 📱 **Teléfono:** `0959739781`
+* 💻 **GitHub:** [github.com/cristianaguilaUTC](https://github.com/cristianaguilaUTC)
+* 🔗 **LinkedIn:** [Cristian Aguila](https://www.linkedin.com/in/cristian-aguila-01368525b/)
+
+---
+
+## 🤝 Disponible para oportunidades
+
+Estoy interesado en oportunidades donde pueda aportar mis conocimientos y continuar desarrollándome profesionalmente en proyectos de tecnología y desarrollo de software.
+
+Me encuentro abierto a posiciones relacionadas con **Desarrollo de Software, Flutter, Python/Django, Laravel, Backend, Full Stack y Bases de Datos**.
+
+---
+
+> **“Tecnología que conecta, soluciones que transforman.”**
+
+⭐ Gracias por visitar mi perfil.
